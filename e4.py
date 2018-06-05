@@ -1,0 +1,5 @@
+x=int(input(""))
+y=int(input(""))
+z=int(input(""))
+c=max(x,y,z)
+print(c)
